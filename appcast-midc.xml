@@ -3,10 +3,10 @@
     <channel>
         <title>IndocoDex - The Advanced Decentralized Exchange</title>
         <item>
-            <title>Version 1.1.5</title>
+            <title>Version 1.1.6</title>
             <description>Indocodex is the latest decentralized exchange offering that allows you to trade digital assets at greater convenience and safety. Being a decentralized exchange, we don't have a centralized repository to store your assets and therefore it is safer for the users.</description>
-            <pubDate>Sun, 25 Apr 2021 15:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=app.indocodex.com" sparkle:version="1.1.5" sparkle:os="android" />
+            <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=app.indocodex.com" sparkle:version="1.1.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
